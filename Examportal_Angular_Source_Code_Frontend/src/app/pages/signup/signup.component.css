@@ -1,0 +1,11 @@
+.full-width {
+  width: 100%;
+}
+
+.mat-icon {
+  font-size: 80px;
+  color: #007dfe;
+  position: relative;
+  right: 28px;
+  bottom: 20px;
+}

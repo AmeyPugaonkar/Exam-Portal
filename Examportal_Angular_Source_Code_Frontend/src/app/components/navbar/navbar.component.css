@@ -1,0 +1,8 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.color{
+  background-color: #d6e6ff;
+  color: #007dfe;
+}
